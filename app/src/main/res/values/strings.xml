@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Self</string>
+    <string name="start"> get Started</string>
+    <string name="what_are_you_grateful_for_today">What are you grateful for today?</string>
+    <string name="self_gratitude_journal">Self.Gratitude.Journal</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="or">OR</string>
+    <string name="create">CREATE ACCOUNT</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="title">Title</string>
+    <string name="thought">Thought</string>
+    <string name="save">Save</string>
+    <string name="todo">TODO</string>
+    <string name="time">time</string>
+</resources>
